@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.nibelungen
+testFramework: spock
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, gradle, h2, http-client, java, java-application, liquibase, logback, lombok, netty-server, readme, shade, spock, yaml]
